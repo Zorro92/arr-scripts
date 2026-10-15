@@ -105,7 +105,7 @@ curl https://raw.githubusercontent.com/RandomNinjaAtk/arr-scripts/main/sonarr/Da
 echo "Done"
 
 echo "Download Extras script..."
-curl https://raw.githubusercontent.com/RandomNinjaAtk/arr-scripts/main/sonarr/Extras.bash -o /config/extended/Extras.bash 
+curl https://raw.githubusercontent.com/Zorro92/arr-scripts/main/sonarr/Extras.bash -o /config/extended/Extras.bash 
 echo "Done"
 
 echo "Download TdarrScan script..."
